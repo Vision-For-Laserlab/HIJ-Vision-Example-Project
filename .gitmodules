@@ -1,0 +1,6 @@
+[submodule "Submodules/HIJ-Vision"]
+	path = Submodules/HIJ-Vision
+	url = git@github.com:Vision-For-Laserlab/HIJ-Vision.git
+[submodule "Submodules/Viewable Actor"]
+	path = Submodules/Viewable Actor
+	url = git@github.com:keale/Viewable_Actor.git
